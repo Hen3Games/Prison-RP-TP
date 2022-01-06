@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/monster/monster_egg_stonebrick" }
+		]
+    }
+}

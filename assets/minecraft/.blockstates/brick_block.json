@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "normal": [
+		{ "model": "brick"  , "weight": 2 },
+		{ "model": "brick/brick_1"  , "weight": 6 },
+		{ "model": "brick/brick_2" , "weight": 4 },
+		{ "model": "brick/brick_3" , "weight": 12 },
+		{ "model": "brick/brick_4" , "weight": 4 },
+		{ "model": "brick/brick_6" , "weight": 6 },
+		{ "model": "brick/brick_7" , "weight": 2 }
+		]
+    }
+}

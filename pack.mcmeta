@@ -1,0 +1,13 @@
+{
+   "pack":{
+      "pack_format":4,
+      "description":"Optifine is benodigd"
+   },
+   "language":{
+      "en_end":{
+         "name":"Prison RP",
+         "region":"The Prison",
+         "bidirectional":false
+      }
+   }
+}

@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/lily/lily_pad" , "weight": 16 },
+            { "model": "block/lily/lily_pad", "y": 90, "weight": 14 },
+            { "model": "block/lily/lily_pad", "y": 180, "weight": 14 },
+            { "model": "block/lily/lily_pad", "y": 270, "weight": 12 }, 
+	    { "model": "block/lily/lily_pad1" , "weight": 15 },
+            { "model": "block/lily/lily_pad1", "y": 90, "weight": 13 },
+            { "model": "block/lily/lily_pad1", "y": 180, "weight": 9 },
+            { "model": "block/lily/lily_pad1", "y": 270, "weight": 12 },
+            { "model": "block/lily/lily_pad2" , "weight": 13 },
+            { "model": "block/lily/lily_pad2", "y": 90, "weight": 9 },
+            { "model": "block/lily/lily_pad2", "y": 180, "weight": 9 },
+            { "model": "block/lily/lily_pad2", "y": 270, "weight": 10 }
+        ]
+    }
+}

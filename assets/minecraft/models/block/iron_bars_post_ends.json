@@ -1,0 +1,25 @@
+{
+"__comment": "Designed by Gaminwombat with BDcraft Cubik PRO 0.96 Beta - http://bdcraft.net",
+"textures": {
+    "particle": "block/post",
+    "texture": "block/post"
+},
+"elements": [ 
+{
+    "from": [ 7, 15.9375, 7 ],
+    "to": [ 9, 16, 9 ],
+    "faces": {
+        "down":  { "uv": [ 14, 0, 16, 2 ], "texture": "#texture" },
+        "up":    { "uv": [ 14, 0, 16, 2 ], "texture": "#texture" }
+    }
+},
+{
+    "from": [ 7, -0.0625, 7 ],
+    "to": [ 9, 0, 9 ],
+    "faces": {
+        "down":  { "uv": [ 14, 0, 16, 2 ], "texture": "#texture" },
+        "up":    { "uv": [ 14, 0, 16, 2 ], "texture": "#texture" }
+    }
+}
+]
+}

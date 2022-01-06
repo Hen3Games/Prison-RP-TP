@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "facing=up": { "model": "glazed_terracotta_cyan" },
+        "facing=down": { "model": "glazed_terracotta_cyan"},
+        "facing=east": { "model": "glazed_terracotta_cyan", "y": 0, "x": 0, "z": 90 },
+        "facing=south": { "model": "glazed_terracotta_cyan", "y": 0, "x": 0, "z": 180 },
+        "facing=west": { "model": "glazed_terracotta_cyan", "y": 0, "x": 0, "z": 270 },
+        "facing=north": { "model": "glazed_terracotta_cyan", "y": 0, "x": 0, "z": 0 }
+    }
+}

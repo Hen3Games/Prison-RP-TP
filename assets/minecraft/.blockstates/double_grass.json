@@ -1,0 +1,11 @@
+{
+    "variants": {
+		"half=lower": [
+		{ "model": "double_grass_bottom", "weight": 10 },
+		{ "model": "double_grass_bottom", "weight": 10, "y": 90 },
+		{ "model": "double_grass_bottom", "weight": 10, "y": 180 },
+		{ "model": "double_grass_bottom", "weight": 10, "y": 270 },
+		{ "model": "double_grass_bottom_1", "weight": 2 }
+		]
+        }
+    }

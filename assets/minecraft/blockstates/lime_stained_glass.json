@@ -1,0 +1,13 @@
+{
+	"multipart": [
+		{
+			"apply": {
+				"model": "block/lime_stained_glass"
+			}
+		},
+		
+		{   
+            "apply": { "model": "block/lime_stained_glass_rod" }
+        }
+	]
+}

@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal":[
+		{ "model": "iron_ore" },
+		{ "model": "iron_ore", "y": 90 },
+        { "model": "iron_ore", "y": 180 },
+        { "model": "iron_ore", "y": 270 }
+		]
+    }
+}

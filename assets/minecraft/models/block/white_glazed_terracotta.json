@@ -1,0 +1,37 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/cube_column",
+    "textures": {
+        "end": "block/white_glazed_terracotta_top",
+        "side": "block/white_glazed_terracotta_side",
+		"particle": "block/white_glazed_terracotta_top"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 2.5, 0],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 2.5, 0],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -45, 0],			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -45, 0],
+
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"gui": {
+			"rotation": [30, 45, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"fixed": {
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}

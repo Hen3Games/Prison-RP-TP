@@ -1,0 +1,32 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/sand/sand" , "weight": 16 },
+            { "model": "block/sand/sand", "y": 90, "weight": 14 },
+            { "model": "block/sand/sand", "y": 180, "weight": 14 },
+            { "model": "block/sand/sand", "y": 270, "weight": 12 }, 
+	    { "model": "block/sand/sand1" , "weight": 15 },
+            { "model": "block/sand/sand1", "y": 90, "weight": 13 },
+            { "model": "block/sand/sand1", "y": 180, "weight": 7 },
+            { "model": "block/sand/sand1", "y": 270, "weight": 12 },
+            { "model": "block/sand/sand2" , "weight": 13 },
+            { "model": "block/sand/sand2", "y": 90, "weight": 6 },
+            { "model": "block/sand/sand2", "y": 180, "weight": 9 },
+            { "model": "block/sand/sand2", "y": 270, "weight": 10 },
+            { "model": "block/sand/sand3" , "weight": 15 },
+            { "model": "block/sand/sand3", "y": 90, "weight": 10 },
+            { "model": "block/sand/sand3", "y": 180, "weight": 12 },
+            { "model": "block/sand/sand3", "y": 270, "weight": 7 },
+	    { "model": "block/sand/sand4" , "weight": 12 },
+            { "model": "block/sand/sand4", "y": 90, "weight": 11 },
+            { "model": "block/sand/sand4", "y": 180, "weight": 7 },
+            { "model": "block/sand/sand4", "y": 270, "weight": 10 },	    
+            { "model": "block/sand/sand5" , "weight": 11 },
+            { "model": "block/sand/sand5", "y": 90, "weight": 12 },
+            { "model": "block/sand/sand5", "y": 180, "weight": 9 },
+            { "model": "block/sand/sand5", "y": 270, "weight": 10 },
+            { "model": "block/sand/sand6" , "weight": 7 },
+            { "model": "block/sand/sand7" , "weight": 6 }
+       ]
+    }
+}

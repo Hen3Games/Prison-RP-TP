@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "normal": [
+		{ "model": "tall_grass" },
+		{ "model": "tallgrass/tall_grass_1" },
+		{ "model": "tallgrass/tall_grass_2" },
+		{ "model": "tallgrass/tall_grass_3" },
+		{ "model": "tallgrass/tall_grass_4" },
+		{ "model": "tallgrass/tall_grass_5" },
+		{ "model": "tallgrass/tall_grass_6" }
+		]
+    }
+}

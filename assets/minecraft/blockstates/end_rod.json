@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "facing=up": { "model": "block/antenne" },
+        "facing=down": { "model": "block/attic_light" }
+    }
+}

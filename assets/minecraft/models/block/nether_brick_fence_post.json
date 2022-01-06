@@ -1,0 +1,33 @@
+{
+"__comment": "Designed by Gaminwombat with BDcraft Cubik PRO 0.96 Beta - http://bdcraft.net",
+"textures": {
+    "particle": "block/quartz_block_lines",
+    "texture": "block/quartz_block_lines"
+},
+"elements": [ 
+{
+    "from": [ 7, 0, 6.5 ],
+    "to": [ 9, 16, 9.5 ],
+    "faces": {
+        "down":  { "uv": [ 7, 4, 5, 1 ], "texture": "#texture" },
+        "up":    { "uv": [ 5, 1, 7, 4 ], "texture": "#texture" },
+        "north": { "uv": [ 14, 0, 16, 16 ], "texture": "#texture" },
+        "south": { "uv": [ 14, 0, 16, 16 ], "texture": "#texture" },
+        "west":  { "uv": [ 0, 0, 2, 16 ], "texture": "#texture" },
+        "east":  { "uv": [ 0, 0, 2, 16 ], "texture": "#texture" }
+    }
+},
+{
+    "from": [ 6.5, 0, 7 ],
+    "to": [ 9.5, 16, 9 ],
+    "faces": {
+        "down":  { "uv": [ 7.5, 3.5, 4.5, 1.5 ], "texture": "#texture" },
+        "up":    { "uv": [ 4.5, 1.5, 7.5, 3.5 ], "texture": "#texture" },
+        "north": { "uv": [ 14, 0, 16, 16 ], "texture": "#texture" },
+        "south": { "uv": [ 14, 0, 16, 16 ], "texture": "#texture" },
+        "west":  { "uv": [ 0, 0, 2, 16 ], "texture": "#texture" },
+        "east":  { "uv": [ 0, 0, 2, 16 ], "texture": "#texture" }
+    }
+}
+]
+}

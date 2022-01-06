@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal":[
+		{ "model": "oak_planks" , "weight":4 },
+		{ "model": "oak_planks/oak_planks_1" , "weight":2 },
+		{ "model": "oak_planks/oak_planks_2" , "weight":4  }
+    ]
+	}
+	
+}
